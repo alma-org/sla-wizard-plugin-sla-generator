@@ -1,6 +1,6 @@
 {
   "name": "sla-wizard-plugin-sla-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a sla-wizard plugin designed to generate SLAs using a CSV file",
   "main": "index.js",
   "scripts": {
