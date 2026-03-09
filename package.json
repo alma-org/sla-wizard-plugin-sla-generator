@@ -22,11 +22,11 @@
     "express": "^4.17.3",
     "js-yaml": "^4.1.0",
     "jsonschema": "^1.4.0",
-    "sla-wizard": "^1.1.0",
     "validator": "^13.7.0",
     "winston": "^3.6.0"
   },
   "devDependencies": {
+    "sla-wizard": "^1.1.0",
     "chai": "^4.3.6",
     "eslint": "^8.42.0",
     "mocha": "^10.0.0"
